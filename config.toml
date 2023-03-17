@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://pictures4u.github.io/pictures4u/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Pictures4U | Creative pictures for you!"
 theme         = "roxo-hugo"
 summarylength = 25
 
