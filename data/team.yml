@@ -1,0 +1,23 @@
+enable  : true
+title   : Team that makes the difference.
+members  :
+  - image       : images/team/ceo.png
+    name        : AIBHLINN PHELAN
+    designation : CEO
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/creative.png
+    name        : AOIFE PHELAN
+    designation : Creative Director
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/it-guy.png
+    name        : JAMES PHELAN
+    designation : IT Guy
+    medium      : https://www.medium.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
